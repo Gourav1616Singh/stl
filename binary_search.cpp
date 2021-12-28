@@ -10,7 +10,7 @@ int main()
     if(x){
         cout<<"Element found ";
     }else{
-        cout<<"Element not found";
+        cout<<"Element is not found";
     }
     return 0;
 }
