@@ -5,10 +5,10 @@ using namespace std;
 
 void display(vector<int>&v)
 {
-    cout<<"Vector elements are"<<endl;
+    cout<<"Reversed Vector Elements are"<<endl;
     for(auto it=v.begin();it!=v.end();it++)
     {
-        cout<<*it<<" ";
+        cout<<*it<<"->";
     }
 }
 
