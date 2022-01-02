@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     int n,x;
-    cout<<"Enter vector size"<<endl;
+    cout<<"Enter size of vector"<<endl;
     cin>>n;
     vector<int>v;
     cout<<"Enter vector elements"<<endl;
